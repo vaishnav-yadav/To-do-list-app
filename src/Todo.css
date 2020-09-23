@@ -1,0 +1,46 @@
+.todo_list{
+    color:#F7C331;
+
+
+}
+
+#listitemtext{
+    color:  #9e363a;
+}
+
+#delete:hover{
+   cursor: pointer;
+   color: red;
+}
+#delete{
+   cursor: pointer;
+   color: white;
+}
+
+#modal{
+    background-color: #fea49f;
+    color: white;
+    border:none;
+    /* color: white; */
+}
+#updateInput{
+    color: white;
+}
+#updateTodo:hover{
+    cursor: pointer;
+    background-color:#00a0a0 ;
+   
+}
+#updateTodo{
+    background-color:#9068be;
+    color: white;
+}
+
+#edit{
+    background-color:  #1dbab4;
+    color:white;
+}
+#edit:hover{
+    background-color:   #00a0a0;
+    color:white;
+}
