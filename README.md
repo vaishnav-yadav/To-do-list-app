@@ -69,5 +69,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 =======
 # To-do-list-app
-Made To-do-list app where users can write their Todos using React having full CRUD functionality
+Made To-do-list app where users can write their Todos using React having full CRUD functionality and deployed it in firebase server 
 >>>>>>> b90ce7d58ea05bbf71282522f42ed1fc48491735
